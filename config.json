@@ -1,0 +1,35 @@
+{
+  "ownerNumber": ["6282274499424@s.whatsapp.net"],
+  "ownerName": "Rainbetmutxyz",
+  "botName": "BOT WA",
+  "sessionName": "session",
+  "pathimg": "./media/thumb.jpg",
+  "FakeNya": "Buatan siapa? Buatan Rainbetmutxyz, Mau Nomernya? 082274499424 Orangnya Baik, Ganteng ,Nganengin Loh",
+
+  "textBarisDonate1": "Dana : 0822-5132-3144",
+  "textBarisDonate2": "Ovo : 0822-5132-3144",
+  "textBarisDonate3": "Gopay : 0822-5132-3144",
+  "textBarisDonate4": "Pulsa : 0822-7449-9424",
+  
+  "ButtonTextMenu1": "Tiktok Owner",
+  "ButtonTextMenu2": "Group Store",
+  "quickReplyButton3": "Rules",
+  "quickReplyButton4": "Donasi",
+  "quickReplyButton5": "Dashboard",
+  
+  "ButtonMenuLink1": "https://tiktok.com/rain4you_",
+  "ButtonMenuLink2": "https://chat.whatsapp.com/Kxgw8YE7JxuHjaKtGZAfvh",
+  "displayTextMenu3": "rules",
+  "displayTextMenu4": "donasi",
+  "displayTextMenu5": "dashboard",
+  
+  "simbolMenuAtas": "❐",
+  "simbolMenuBawah": "•",
+  
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
